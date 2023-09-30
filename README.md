@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewSiegfried
 - 🌱 I’m currently learning: Front End Program Development
-- 📫 How to reach me: Best way to reach me is by Email @ Andrewsiegfried1998@gmail.com
+- 📫 How to reach me: Best way to reach me is by Email @ Andrew.c.siegfried
 
 <!---
 AndrewSiegfried/AndrewSiegfried is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
